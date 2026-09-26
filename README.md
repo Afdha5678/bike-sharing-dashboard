@@ -62,7 +62,7 @@ submission/
 ## 🌐 Tautan Live Dashboard Streamlit
 
 Aplikasi Dashboard interaktif telah di-deploy dan dapat diakses publik melalui tautan berikut:
-👉 [Bike Sharing Analytics Dashboard (Streamlit Cloud)](https://bike-sharing-dashboard-afdha5678.streamlit.app/)
+👉 [Bike Sharing Analytics Dashboard (Streamlit Cloud)](https://bike-sharing-dashboard-mk6gi5hprm5n9gwegnyq9c.streamlit.app/)
 
 ---
 

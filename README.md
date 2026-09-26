@@ -3,8 +3,8 @@
 Proyek akhir analisis data ini bertujuan untuk mengeksplorasi, menganalisis, dan menarik wawasan bisnis yang mendalam dari **Bike Sharing Dataset** (Capital Bikeshare system, Washington D.C., USA). Analisis dilakukan mengikuti metodologi analisis data yang terstruktur: *Determining Business Questions (SMART)*, *Data Wrangling (Gathering, Assessing, Cleaning)*, *Exploratory Data Analysis (EDA Univariate, Bivariate, Multivariate, & Aggregation)*, *Data Visualization & Explanatory Analysis*, *Advanced Non-ML Analysis (Binning & RFM Analysis)*, serta perumusan *Conclusion & Actionable Recommendations*.
 
 - **Nama:** Afdha Auliya Atiq
-- **Email:** afdha.auliya.atiq@gmail.com
-- **ID Dicoding:** afdha_auliya_atiq
+- **Email:** auliyaatiqafdha@apps.ipb.ac.id
+- **ID Dicoding:** ds001b6y0696
 
 ---
 
